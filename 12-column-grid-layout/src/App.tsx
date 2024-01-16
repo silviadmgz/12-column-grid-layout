@@ -1,8 +1,6 @@
 import './App.css'
 
 function App() {
-  // const [count, setCount] = useState(0)
-
   return (
     <>
       <div className="container m-auto grid grid-cols-1 gap-1 text-white md:grid-cols-12 br-100px">
